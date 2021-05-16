@@ -192,7 +192,7 @@ a:hover{
   padding: 12px 50px;
 }
 
-/* hero section */
+/* hero section  home page */
 .hero{
   background: url(../media/hero/h1_hero.jpg) no-repeat center center ;
   height: 100vh;
@@ -489,7 +489,7 @@ hr{
 
 
 
-/* Our services main page */
+/* Our services main page (third-page) */
 .hero-three{
   background: url(../media/hero/services_hero.jpg) no-repeat;
   background-size: cover;
@@ -508,7 +508,7 @@ hr{
   text-transform: none;
 }
 
-/* our blog main-page */
+/* our blog main-page (fourth page)*/
 
 .hero-four{
   background: url(../media/hero/blog_hero.jpg) no-repeat;
@@ -521,11 +521,6 @@ hr{
   padding: 100px 0px;
   color: var(--secondary);
 }
-
-
-
-/* Our blog main page  */
-
 
 .top-blog img{
   width: 100%;
@@ -603,7 +598,7 @@ hr{
   align-items: center;
 }
 
-/* aside section */
+/* aside section (blog page) */
 .bottom-margin{
   margin-bottom: 30px;
   padding-bottom: 10px;
